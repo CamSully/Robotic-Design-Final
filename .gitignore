@@ -1,9 +1,4 @@
 *~
-*.swp
-build
-bin
-dist
-Desktop
 dist/
 build/
 bin/
